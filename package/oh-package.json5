@@ -1,0 +1,13 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "author": "southorange0929",
+  "name": "@ohos-rs/jieba",
+  "description": "jieba package for HarmonyOS,powered by ohos-rs.",
+  "main": "Index.ets",
+  "version": "0.0.1",
+  "dynamicDependencies": {},
+  "dependencies": {
+    "libohos_rs_jieba.so": "file:./src/main/cpp/types/libjieba"
+  }
+}
