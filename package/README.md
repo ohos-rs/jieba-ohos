@@ -5,6 +5,14 @@
 > 由于现行鸿蒙NDK中`napi_typeof`方法对于空参处理问题会导致默认参数不填参数报错，所以请填写对应的参数。   
 > 等待官方问题修复即可
 
+## Install
+
+use`ohpm` to install package.
+
+```shell
+ohpm install @ohrs-rs/jieba
+```
+
 ## Usage
 
 ```javascript
